@@ -4,8 +4,8 @@ This is the Gem version of rails-setting Plugin
 More information about the Plugin please see below, or at https://github.com/Squeegy/rails-settings
 
 == Install
-Put this line into Gemfile
-gem 'my_rails_settings', :git => "git://github.com/quyen/my_rails_settings.git"
+Put this line into Gemfile:
+  gem 'my_rails_settings', :git => "git://github.com/quyen/my_rails_settings.git"
 
 == Notice
 Even through the plugin document below states that you can set the default value for certain setting, it doesn't work.
