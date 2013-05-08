@@ -1,3 +1,16 @@
+= my_rails_setting Gem
+This is the Gem version of rails-setting Plugin
+
+More information about the Plugin please see below, or at https://github.com/Squeegy/rails-settings
+
+== Install
+Put this line into Gemfile
+gem 'my_rails_settings', :git => "git://github.com/quyen/my_rails_settings.git"
+
+== Notice
+Even through the plugin document below states that you can set the default value for certain setting, it doesn't work.
+The Gem version fixes this problem.
+
 = Settings Plugin
 
 Settings is a plugin that makes managing a table of global key, value pairs easy.
